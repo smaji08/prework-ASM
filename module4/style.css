@@ -1,0 +1,28 @@
+body{
+    background-color:beige;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  table, th, td {
+    border: 1px solid black;
+}
+  a{
+    text-decoration: none;
+}
+  a:link{
+    color: blue;
+}
+  a:visited{
+    color:green;
+}
+  a:hover{
+          text-decoration:underline;
+}
+      
